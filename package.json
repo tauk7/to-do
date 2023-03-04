@@ -1,0 +1,14 @@
+{
+  "name": "to-do",
+  "version": "1.0.0",
+  "description": "Projeto de To Do ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Matheus Henriquede de Macedo Barreto",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
